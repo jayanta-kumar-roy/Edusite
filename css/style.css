@@ -1327,8 +1327,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	to { -webkit-transform: rotate(360deg); transform: rotate(360deg);}
 }
 
-@media (min-width: 992px){
+/* @media (min-width: 992px){
 .col-md-9 {
     width: 100%;
 }
-}
+} */
